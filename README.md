@@ -9,10 +9,10 @@ This project aims to explore and analyze alternative ΛCDM models in cosmology a
 ## Contents
 
 - `Notebooks/`: Contains Jupyter notebooks with code and explanations.
-- `Images/`: Contains images used in the documentation.
 - `Data/`: Placeholder for data files (if applicable).
 - `README.md`: This file.
 - `LICENSE`: Project license details.
+- `PDF`: A pdf file added
 
 ## Getting Started
 
@@ -22,9 +22,9 @@ This project aims to explore and analyze alternative ΛCDM models in cosmology a
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook (for running notebooks)
-- Required libraries: (list any libraries and versions used)
+- Required libraries: (pandas,matplotlib, numpy , math , emecc)
 
 ## Usage
 
@@ -33,6 +33,7 @@ This project aims to explore and analyze alternative ΛCDM models in cosmology a
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
+and I will consider.
 
 ## License
 
@@ -40,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, contact [Your Name](mailto:your.email@example.com).
+For questions or inquiries, contact [Macari](s-makary.fayez@zewailcity.edu.com).
 
